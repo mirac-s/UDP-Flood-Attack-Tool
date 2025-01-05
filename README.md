@@ -31,6 +31,6 @@ Press CTRL + C to stop the flood. The script will terminate all processes gracef
 Author:
 GitHub: mirac-s
 
-Legal Note:
+🚫 Legal Note:
 Use responsibly. This tool is a proof of concept for understanding UDP behavior and potential vulnerabilities in systems. Always ensure you have written permission to test any network that is not your own.
 
